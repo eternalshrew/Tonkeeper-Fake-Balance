@@ -1,0 +1,14 @@
+{
+    "tonkeeper_path": "auto",
+    "target_balances": {
+        "TON": 15000.0,
+        "USDT": 250000.0,
+        "NOT": 500000.0,
+        "DOGS": 1000000.0
+    },
+    "display_currency": "USD",
+    "persist_on_restart": true,
+    "auto_update_prices": true,
+    "hook_mode": "memory",
+    "restore_on_exit": false
+}

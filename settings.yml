@@ -1,0 +1,15 @@
+# Application Settings
+
+server:
+  host: localhost
+  port: 8080
+  timeout: 30
+
+logging:
+  level: info
+  file: app.log
+  max_size: 10MB
+
+features:
+  enable_analytics: false
+  enable_notifications: true
